@@ -15,7 +15,7 @@ public class PauseState extends GameState {
 		
 		super(gsm);
 		
-		// fonts
+		
 		font = new Font("Century Gothic", Font.PLAIN, 14);
 		
 	}
